@@ -29,17 +29,37 @@
 
 ---
 
+## ⬇️ 下载方式
+
+### 方式一：Git Clone（推荐，可后续更新）
+
+```bash
+git clone https://github.com/TUREKINNN/27-11408-.git
+```
+
+### 方式二：直接下载 ZIP
+
+到仓库页面 → 点绿色 **「Code」** 按钮 → **「Download ZIP」** → 解压即可。
+
+### 方式三：GitHub CLI
+
+```bash
+gh repo clone TUREKINNN/27-11408-
+```
+
+---
+
 ## 🚀 使用方式
 
 ### Obsidian 用户（推荐）
 
-1. 下载本仓库
+1. 下载或 clone 本仓库
 2. 在 Obsidian 中 **「打开本地文件夹」** → 选择 `27考研笔记/`
-3. 笔记内置了完整的双向链接，可直接跳转
+3. 笔记内置了完整的双向链接，可直接跳转浏览
 
 ### 普通浏览
 
-直接在 GitHub 上浏览 `.md` 文件即可，所有笔记均为 Markdown 格式。
+直接在 GitHub 上浏览 `.md` 文件即可，所有笔记均为标准 Markdown 格式。
 
 ---
 
