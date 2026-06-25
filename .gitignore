@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Obsidian (not needed in repo)
+.obsidian/
+
+# Temp files
+_*.py
+_*.json
+_*.txt
+!原始资料*.txt
